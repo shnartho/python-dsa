@@ -5,6 +5,15 @@
 - **Arrays:** A fixed-size, contiguous memory data structure.
 - **Lists (e.g., ArrayList, LinkedList):** Dynamic arrays that can grow or shrink in size.
 
+### Hash Tables:
+
+- A data structure that maps keys to values, allowing for efficient retrieval and insertion.
+
+### Hash Maps and Sets:
+
+- **Hash Map:** A key-value store with constant-time average lookup.
+- **Hash Set:** A set of unique elements with constant-time average membership check.
+
 ### Stacks and Queues:
 
 - **Stack:** A Last-In-First-Out (LIFO) data structure.
@@ -25,22 +34,13 @@
 - **Min Heap:** A binary tree where the parent node is smaller than its children.
 - **Max Heap:** A binary tree where the parent node is larger than its children.
 
-### Hash Tables:
+### Trie:
 
-- A data structure that maps keys to values, allowing for efficient retrieval and insertion.
+- A tree-like data structure used for efficient storage and retrieval of strings.
 
 ### Graphs:
 
 - Graphs can come in various forms (e.g., directed, undirected) and are used for modeling relationships between entities.
-
-### Hash Maps and Sets:
-
-- **Hash Map:** A key-value store with constant-time average lookup.
-- **Hash Set:** A set of unique elements with constant-time average membership check.
-
-### Trie:
-
-- A tree-like data structure used for efficient storage and retrieval of strings.
 
 ### Disjoint Set (Union-Find):
 
