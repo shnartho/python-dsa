@@ -73,7 +73,7 @@
 ### Greedy Algorithm:
 - Job Sequencing
 - Prim's Algorithm
-- Fractional Knapsack
+- Fractional Knapsackl
 
 ### Dynamic Programming:
 - Fibonacci Series
