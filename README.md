@@ -100,3 +100,10 @@
 - Maximum Sum Subarray
 - Longest Substring with k Distinct
 - Minimum Window Substring
+
+### Top 5 Algorithms
+- BFS and DFS (Graph Traversal, Topological sort)
+- Dynamic Programming
+- Backtracking (w/ recursion)
+- Sliding Window
+- Top K elements (using heap find top 3 largest element)
